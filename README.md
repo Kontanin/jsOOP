@@ -1,0 +1,2 @@
+# jsOOP
+creat JS oop 
